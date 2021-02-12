@@ -3,7 +3,7 @@ import shutil
 
 
 def edf_deidentify(path, save_dir=None, overwrite=False):
-    """
+    """ Deidentifies a given edf file (removes patient info and recording info)
 
     :param path: path to edf file to be deidentified
     :param save_dir: directory to save deidentified copy of edf (default is directory of edf file)
