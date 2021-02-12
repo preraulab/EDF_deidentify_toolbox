@@ -1,1 +1,2 @@
-# EDF_deidentify_public
+# This repository contains matlab and python functions for deidentifying EDF files
+
