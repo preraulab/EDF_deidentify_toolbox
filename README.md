@@ -4,6 +4,6 @@
 
 This code overwrite the following header data fields:
 
-''''Patient Info'''': overwrites with “DEIDENTIFIED”
-''''Patient Recording Info'''': overwrites with “DEIDENTIFIED”
-''''Date'''': overwrites with 01.01.01
+Patient Info: overwrites with “DEIDENTIFIED”  
+Patient Recording Info: overwrites with “DEIDENTIFIED”  
+Date: overwrites with 01.01.01  
