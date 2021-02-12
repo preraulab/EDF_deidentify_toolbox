@@ -3,14 +3,22 @@ import shutil
 
 
 def edf_deidentify(path, save_dir=None, overwrite=False):
-    """ Deidentifies a given edf file (removes patient info and recording info)
+    """ Deidentifies a given edf file (removes patient info and recording info) and saves deidentified EDF
 
-    :param path: path to edf file to be deidentified
-    :param save_dir: directory to save deidentified copy of edf (default is directory of edf file)
-    :param overwrite: replace the edf file given with the deidentified file (default = False) (Note: if True, ignores
+    :param path: (str) path to edf file to be deidentified
+    :param save_dir: (str) directory to save deidentified copy of edf (default is directory of edf file)
+    :param overwrite: (bool) replace the edf file given with the deidentified file (default = False) (Note: if True, ignores
                       save_dir)
 
     :return: None
+    
+    Usage:
+        edf_deidentiy(path)
+        edf_deidentify(path, save_dir)
+        edf_deidentfy(path, save_dir, overwrite)
+    
+    Copyright 2021 Michael J. Prerau, Ph.D. Laboratory - http://www.sleepEEG.org
+    Last modified 02/12/2021
     """
 
     # If no save_dir provided, use dir of edf file
