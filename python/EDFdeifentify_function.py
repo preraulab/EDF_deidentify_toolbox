@@ -17,7 +17,9 @@ def edf_deidentify(path, save_dir=None, overwrite=False):
         edf_deidentify(path, save_dir)
         edf_deidentfy(path, save_dir, overwrite)
     
-    Copyright 2021 Michael J. Prerau, Ph.D. Laboratory - http://www.sleepEEG.org
+    Copyright 2021 Michael J. Prerau Laboratory. - http://www.sleepEEG.org
+    Author: Michael J. Prerau, Ph.D.
+    
     Last modified 02/12/2021
     """
 
