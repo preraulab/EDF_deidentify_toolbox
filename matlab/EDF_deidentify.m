@@ -81,8 +81,8 @@ function deidentify(filename)
 fid = fopen(filename, 'r+');
 
 fprintf(fid, '%-8s', '0');   % Version must be 0
-fprintf(fid, '%-80s', 'DEIDENTIFIED'); % Remove patient info
-fprintf(fid,'%-80s', 'DEIDENTIFIED'); %Remove recording info
+fprintf(fid, '%-80s', 'X X X X'); % Remove patient info
+fprintf(fid,'%-80s', 'Startdate X X X X'); %Remove recording info
 fprintf(fid, '%02i.%02i.%02i', 1,1,1); % Set date as 01.01.01
 
 fclose(fid);
