@@ -31,8 +31,7 @@ Note: There is currently no standard for de-identification of the StartDate fiel
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
 
 <br/>
-## Deidentifier Standalone Program
-<h2>EDF De-identifier – Standalone Program</h2>
+##Deidentifier Standalone Program
 Download standalone programs for:
 
 <a href="#windows_install">
@@ -49,7 +48,6 @@ Download standalone programs for:
 <br/>
 
 ## Deidentification Functions
-<h2>EDF De-identification Functions</h2>
 Source code for EDF de-identification functions are available here:
 
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code
@@ -61,7 +59,6 @@ Source code for EDF de-identification functions are available here:
 <br/>
 
 ## Installation Instructions
-<h2>Installation Instructions</h2>
 <a id="mac_install"></a>
 <h3>Mac:</h3>
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_mac.dmg">Download the .dmg file</a> and open it up. Drag the icon to the Applications folder shortcut:
