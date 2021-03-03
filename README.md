@@ -47,7 +47,6 @@ Source code for EDF de-identification functions are available here:
 <br/>
 
 <h2>Installation Instructions</h2>
-&nbsp;
 <a id="mac_install"></a>
 <h3>Mac:</h3>
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_mac.dmg">Download the .dmg file</a> and open it up. Drag the icon to the Applications folder shortcut:
@@ -61,6 +60,8 @@ Click on <strong>Open</strong> and the application should open, with no further 
 <a id="windows_install"></a>
 
 <br/>
+&nbsp;
+
 
 <h3>Windows</h3>
 Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_windows.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
@@ -71,6 +72,8 @@ Then select where you would like to place the .exe icon in the file dialogue win
 <a id="instructions"></a>
 
 <br/>
+&nbsp;
+
 
 <h2>Instructions</h2>
 Upon running the application, the following window should appear:
