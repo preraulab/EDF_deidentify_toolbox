@@ -20,7 +20,7 @@
 ## General Information
 <a href="https://www.edfplus.info/" target="_blank" rel="noopener">European Data Format (EDF)</a> is one of the primary ways polysomnography and EEG data are stored. De-identification of EDF files is a necessary step for safe sharing of data, removing any identifying information from the file headers. Often EDF de-identification tools are part of some larger toolbox or software package, making distribution to clinical sites and personnel more difficult.
 
-Here we provide [standalone GUI-based programs](#deidentifier-standalone-program) for PC, Mac, and Linux as well as <a href="#sourcecode">functional source code</a> in MATLAB and python to facilitate de-identification of EDF files.
+Here we provide [standalone GUI-based programs](#deidentifier-standalone-program) for PC, Mac, and Linux as well as [functional source code](#deidentification-functions) in MATLAB and python to facilitate de-identification of EDF files.
 The program overwrites the following header data fields:
 
 <code>Patient Info</code>: Overwrites with "X X X X"
