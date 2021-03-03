@@ -52,9 +52,14 @@ Source code for EDF de-identification functions are available here:
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_mac.dmg">Download the .dmg file</a> and open it up. Drag the icon to the Applications folder shortcut:
 <img class=" wp-image-1633 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.17.31-AM.png" alt="" width="429" height="431" />
 <h4><strong>IMPORTANT: </strong>As this program is not hosted through the app store, <span style="color: #ff0000;"><strong>you must go to the applications folder and CONTROL-click the EDF De-Identifier application icon it the first time you open it. </strong> </span></h4>
-<span style="color: #ff0000;"><span style="color: #000000;">If you see the following error:<img class=" wp-image-1639 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.55.24-AM.png" alt="" width="290" height="315" /></span></span>
+
+<span style="color: #ff0000;"><span style="color: #000000;">If you see the following error:
+
+<img class=" wp-image-1639 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.55.24-AM.png" alt="" width="290" height="315" /></span></span>
+
 Select <strong>Cancel</strong>, navigate to the Applications folder, <strong>hold down control</strong>, then click on the <em>EDF De-Identifier</em> application icon.
 After control-clicking on the app, you will then see the following window:
+
 <img class=" wp-image-1634 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.16.58-AM.png" alt="" width="257" height="376" />
 Click on <strong>Open</strong> and the application should open, with no further issue on subsequent use.
 <a id="windows_install"></a>
