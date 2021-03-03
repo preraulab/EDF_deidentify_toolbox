@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Information](#general-information)
 * [Standalone GUI Program](#deidentifier-standalone-program)
-* [Functions](deidentification-functions)
+* [Functions](#deidentification-functions)
 * [Installation Instructions](#installation-instructions)
 * [GUI Usage Instructions](#gui-usage-instructions)
 * [Status](#status)
