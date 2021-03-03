@@ -26,7 +26,12 @@ Download standalone programs for:
 <a id="sourcecode"></a>
 <h2>EDF De-identification Functions</h2>
 Source code for EDF de-identification functions are available here:
-<a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code</button></a> <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeifentify_function.py"><button class="download">Python code</button></a><a href="https://github.com/preraulab/EDF_deidentify_public"><button class="download">Github Repository</button></a>
+
+<a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code
+  
+</button></a><a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeifentify_function.py"><button class="download">Python code
+  
+</button></a><a href="https://github.com/preraulab/EDF_deidentify_public"><button class="download">Github Repository</button></a>
 <h2>Installation Instructions</h2>
 &nbsp;
 <a id="mac_install"></a>
