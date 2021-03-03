@@ -3,8 +3,8 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Standalone GUI Program](#standalone)
-* [Functions]()
+* [Standalone GUI Program](#de-identifier---standalone-program)
+* [Functions](de-identification-functions)
 * [Installation Instructions]()
 * [GUI Usage Instructions]()
 * [Status](#status)
@@ -31,6 +31,7 @@ Note: There is currently no standard for de-identification of the StartDate fiel
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
 
 <br/>
+## De-identifier - Standalone Program
 <h2>EDF De-identifier – Standalone Program</h2>
 Download standalone programs for:
 
@@ -47,6 +48,7 @@ Download standalone programs for:
 
 <br/>
 
+## De-identification Functions
 <h2>EDF De-identification Functions</h2>
 Source code for EDF de-identification functions are available here:
 
