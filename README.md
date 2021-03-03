@@ -29,6 +29,7 @@ Source code for EDF de-identification functions are available here:
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code</button></a> <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeifentify_function.py"><button class="download">Python code</button></a><a href="https://github.com/preraulab/EDF_deidentify_public"><button class="download">Github Repository</button></a>
 <h2>Installation Instructions</h2>
 &nbsp;
+<a id="mac_install"></a>
 <h3>Mac:</h3>
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_mac.dmg">Download the .dmg file</a> and open it up. Drag the icon to the Applications folder shortcut:
 <img class=" wp-image-1633 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.17.31-AM.png" alt="" width="429" height="431" />
