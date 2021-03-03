@@ -31,7 +31,9 @@ Note: There is currently no standard for de-identification of the StartDate fiel
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
 
 <br/>
+
 ## Deidentifier Standalone Program
+
 Download standalone programs for:
 
 <a href="#windows_install">
