@@ -3,10 +3,10 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Standalone GUI Program](#de-identifier---standalone-program)
-* [Functions](de-identification-functions)
-* [Installation Instructions]()
-* [GUI Usage Instructions]()
+* [Standalone GUI Program](#deidentifier-standalone-program)
+* [Functions](deidentification-functions)
+* [Installation Instructions](#installation-instructions)
+* [GUI Usage Instructions](#gui-usage-instructions)
 * [Status](#status)
 * [Contact](#contact)
 
@@ -31,7 +31,7 @@ Note: There is currently no standard for de-identification of the StartDate fiel
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
 
 <br/>
-## De-identifier - Standalone Program
+## Deidentifier Standalone Program
 <h2>EDF De-identifier – Standalone Program</h2>
 Download standalone programs for:
 
@@ -48,7 +48,7 @@ Download standalone programs for:
 
 <br/>
 
-## De-identification Functions
+## Deidentification Functions
 <h2>EDF De-identification Functions</h2>
 Source code for EDF de-identification functions are available here:
 
@@ -60,6 +60,7 @@ Source code for EDF de-identification functions are available here:
 
 <br/>
 
+## Installation Instructions
 <h2>Installation Instructions</h2>
 <a id="mac_install"></a>
 <h3>Mac:</h3>
@@ -93,8 +94,7 @@ Then select where you would like to place the .exe icon in the file dialogue win
 <br/>
 &nbsp;
 
-
-<h2>Instructions</h2>
+## GUI Usage Instructions
 Upon running the application, the following window should appear:
 <img class=" wp-image-1636 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.36.04-AM.png" alt="" width="589" height="252" />
 Select <strong>Choose File(s)</strong> and a file dialog will pop up. Select all the file or files that you are interested in de-identifying.
