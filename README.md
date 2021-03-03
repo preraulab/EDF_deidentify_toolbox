@@ -13,6 +13,7 @@ The program overwrites the following header data fields:
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
 <h2>EDF De-identifier – Standalone Program</h2>
 Download standalone programs for:
+
 <a href="#windows_install"><button class="download"><img class="alignnone size-full wp-image-1513" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/os-windows8-16.png" alt="" width="16" height="16" /> Windows</button></a><a href="#mac_install"><button class="download"><img class="alignnone size-full wp-image-1512" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/mac-os-16.png" alt="" width="16" height="16" /> Mac</button></a><a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeidentify_linux"><button class="download"><img class="alignnone size-full wp-image-1511" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/linux-16.png" alt="" width="16" height="16" /> Linux</button></a>
 <a href="#instructions">Click here for instructions on how to use EDF De-Identifier</a>
 <a id="sourcecode"></a>
