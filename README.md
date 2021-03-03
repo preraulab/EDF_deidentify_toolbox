@@ -1,8 +1,20 @@
 ## Prerau Lab Matlab and Python functions for Deidentifying EDF files
 ---
 
+## Table of Contents
+* [General Information](#general-information)
+* [Standalone GUI Program](#standalone)
+* [Functions]()
+* [Installation Instructions]()
+* [GUI Usage Instructions]()
+* [Status](#status)
+* [Contact](#contact)
+
+<br/>
+
 <img class="alignnone size-full wp-image-1590" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Splash-noversion.png" alt="" width="960" height="342" />
 
+## General Information
 <a href="https://www.edfplus.info/" target="_blank" rel="noopener">European Data Format (EDF)</a> is one of the primary ways polysomnography and EEG data are stored. De-identification of EDF files is a necessary step for safe sharing of data, removing any identifying information from the file headers. Often EDF de-identification tools are part of some larger toolbox or software package, making distribution to clinical sites and personnel more difficult.
 
 Here we provide <a href="#standalone">standalone GUI-based programs</a> for PC, Mac, and Linux as well as <a href="#sourcecode">functional source code</a> in MATLAB and python to facilitate de-identification of EDF files.
@@ -88,3 +100,13 @@ Then the following window will appear:
 <img class="wp-image-1637 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.39.41-AM.png" alt="" width="282" height="299" />
 Selecting <strong>Yes</strong> will create a duplicate copies of your EDF files with the suffix '_deidentifed' added to the end. For example: <code>recording001.edf</code> will be renamed <code>recording001_deidentified.edf</code>.
 Selecting <strong>No</strong> will directly overwrite the data in the files.
+
+<br/>
+
+## Status
+All implementations are complete and functional but may receive updates occasionally 
+
+<br/>
+
+## Contact
+For questions or suggestions please contact Thomas Possidente at tpossidente@bwh.harvard.edu 
