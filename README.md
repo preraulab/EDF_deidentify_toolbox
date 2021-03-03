@@ -17,6 +17,7 @@ The program overwrites the following header data fields:
 Note: There is currently no standard for de-identification of the StartDate field under EDF/EDF+ specifications. We have chosen to use 01.01.01 since it will not return an error for readers or viewers that verify date validity. 
 
 This format is designed to retain compliance with <a href="https://www.edfplus.info/specs/edfplus.html">EDF+ specification standards</a>.
+<br/>
 <h2>EDF De-identifier – Standalone Program</h2>
 Download standalone programs for:
 
