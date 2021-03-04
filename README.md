@@ -37,6 +37,8 @@ This format is designed to retain compliance with <a href="https://www.edfplus.i
 
 ## Deidentifier Standalone Program
 
+The python code used to create these standalone GUI programs is available in the "GUI" folder. Let us know if you use this code to compile a standalone GUI for an OS other than Mac, PC, or Linux, we would love to add it to what we have available.
+
 Download standalone programs for:
 
 <a href="#windows_install">
@@ -53,14 +55,15 @@ Download standalone programs for:
 <br/>
 
 ## Deidentification Functions
-Source code for EDF de-identification functions are available here:
+
+The Matlab and Python implementations of the de-identification function are available in the "Functions" folder. For more information and example code visit the [matlab](#https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/matlab) or [python](#https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/python) subfolder.
+
+Source code for EDF de-identification functions are available for direct download here:
 
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code
   
 </button></a><a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeifentify_function.py"><button class="download">Python code
   
-</button></a><a href="https://github.com/preraulab/EDF_deidentify_public"><button class="download">Github Repository</button></a>
-
 <br/>
 
 ## Installation Instructions
