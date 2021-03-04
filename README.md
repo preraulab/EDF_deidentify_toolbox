@@ -37,6 +37,8 @@ This format is designed to retain compliance with <a href="https://www.edfplus.i
 
 ## Deidentifier Standalone Program
 
+The python code used to create these standalone GUI programs is available in the "GUI" folder. Let us know if you use this code to compile a standalone GUI for an OS other than Mac, PC, or Linux, we would love to add it to what we have available.
+
 Download standalone programs for:
 
 <a href="#windows_install">
@@ -53,14 +55,15 @@ Download standalone programs for:
 <br/>
 
 ## Deidentification Functions
-Source code for EDF de-identification functions are available here:
+
+The Matlab and Python implementations of the de-identification function are available in the "Functions" folder. For more information and example code visit the [matlab](https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/matlab) or [python](https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/python) subfolder.
+
+Source code for EDF de-identification functions are available for direct download here:
 
 <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentify.m"><button class="download">Matlab Code
   
 </button></a><a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDFdeifentify_function.py"><button class="download">Python code
   
-</button></a><a href="https://github.com/preraulab/EDF_deidentify_public"><button class="download">Github Repository</button></a>
-
 <br/>
 
 ## Installation Instructions
@@ -78,6 +81,7 @@ Select <strong>Cancel</strong>, navigate to the Applications folder, <strong>hol
 After control-clicking on the app, you will then see the following window:
 
 <img class=" wp-image-1634 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.16.58-AM.png" alt="" width="257" height="376" />
+
 Click on <strong>Open</strong> and the application should open, with no further issue on subsequent use.
 <a id="windows_install"></a>
 
@@ -87,9 +91,15 @@ Click on <strong>Open</strong> and the application should open, with no further 
 
 <h3>Windows</h3>
 Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_windows.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
-<img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />Click <strong>Run anyway</strong>
+
+&nbsp;
+
+<img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />
+
+Click <strong>Run anyway</strong>
 
 <img class="size-medium wp-image-1682 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/window2-300x280.png" alt="" width="300" height="280" />
+
 Then select where you would like to place the .exe icon in the file dialogue window and the application will be installed there.
 <a id="instructions"></a>
 
@@ -98,10 +108,14 @@ Then select where you would like to place the .exe icon in the file dialogue win
 
 ## GUI Usage Instructions
 Upon running the application, the following window should appear:
+
 <img class=" wp-image-1636 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.36.04-AM.png" alt="" width="589" height="252" />
+
 Select <strong>Choose File(s)</strong> and a file dialog will pop up. Select all the file or files that you are interested in de-identifying.
 Then the following window will appear:
+
 <img class="wp-image-1637 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.39.41-AM.png" alt="" width="282" height="299" />
+
 Selecting <strong>Yes</strong> will create a duplicate copies of your EDF files with the suffix '_deidentifed' added to the end. For example: <code>recording001.edf</code> will be renamed <code>recording001_deidentified.edf</code>.
 Selecting <strong>No</strong> will directly overwrite the data in the files.
 
