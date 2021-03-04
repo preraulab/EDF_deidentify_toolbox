@@ -1,4 +1,4 @@
-## Prerau Lab Matlab and Python functions for Deidentifying EDF files
+## Prerau Lab Python functions for Deidentifying EDF files
 ---
 
 <img class="alignnone size-full wp-image-1590" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Splash-noversion.png" alt="" width="960" height="342" />
