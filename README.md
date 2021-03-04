@@ -81,6 +81,7 @@ Select <strong>Cancel</strong>, navigate to the Applications folder, <strong>hol
 After control-clicking on the app, you will then see the following window:
 
 <img class=" wp-image-1634 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.16.58-AM.png" alt="" width="257" height="376" />
+
 Click on <strong>Open</strong> and the application should open, with no further issue on subsequent use.
 <a id="windows_install"></a>
 
@@ -90,9 +91,13 @@ Click on <strong>Open</strong> and the application should open, with no further 
 
 <h3>Windows</h3>
 Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_windows.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
-<img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />Click <strong>Run anyway</strong>
+
+<img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />
+
+Click <strong>Run anyway</strong>
 
 <img class="size-medium wp-image-1682 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/window2-300x280.png" alt="" width="300" height="280" />
+
 Then select where you would like to place the .exe icon in the file dialogue window and the application will be installed there.
 <a id="instructions"></a>
 
