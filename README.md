@@ -56,7 +56,7 @@ Download standalone programs for:
 
 ## Deidentification Functions
 
-The Matlab and Python implementations of the de-identification function are available in the "Functions" folder. For more information and example code visit the [matlab](#https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/matlab) or [python](#https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/python) subfolder.
+The Matlab and Python implementations of the de-identification function are available in the "Functions" folder. For more information and example code visit the [matlab](https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/matlab) or [python](https://github.com/preraulab/EDF_deidentify_toolbox/tree/master/Functions/python) subfolder.
 
 Source code for EDF de-identification functions are available for direct download here:
 
