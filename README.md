@@ -92,7 +92,9 @@ Click on <strong>Open</strong> and the application should open, with no further 
 <h3>Windows</h3>
 Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_windows.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
 
+
 <img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />
+
 
 Click <strong>Run anyway</strong>
 
