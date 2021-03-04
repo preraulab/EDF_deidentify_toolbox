@@ -95,8 +95,6 @@ Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidenti
 &nbsp;
 
 <img class="wp-image-1706 size-medium aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/windowsw-300x279.png" alt="" width="300" height="279" />
-&nbsp;
-
 
 Click <strong>Run anyway</strong>
 
@@ -110,10 +108,14 @@ Then select where you would like to place the .exe icon in the file dialogue win
 
 ## GUI Usage Instructions
 Upon running the application, the following window should appear:
+
 <img class=" wp-image-1636 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.36.04-AM.png" alt="" width="589" height="252" />
+
 Select <strong>Choose File(s)</strong> and a file dialog will pop up. Select all the file or files that you are interested in de-identifying.
 Then the following window will appear:
+
 <img class="wp-image-1637 aligncenter" src="https://prerau.bwh.harvard.edu/wp-content/uploads/2021/02/Screen-Shot-2021-02-24-at-11.39.41-AM.png" alt="" width="282" height="299" />
+
 Selecting <strong>Yes</strong> will create a duplicate copies of your EDF files with the suffix '_deidentifed' added to the end. For example: <code>recording001.edf</code> will be renamed <code>recording001_deidentified.edf</code>.
 Selecting <strong>No</strong> will directly overwrite the data in the files.
 
