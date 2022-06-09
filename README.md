@@ -90,7 +90,7 @@ Click on <strong>Open</strong> and the application should open, with no further 
 
 
 <h3>Windows</h3>
-Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_Installer_windows.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
+Download the <a href="https://prerau.bwh.harvard.edu/edf_deidentify/EDF_deidentifier_installer_windows_v2.zip">installer</a> and open it, then this window will pop up. Select <strong>More info</strong>.
 
 &nbsp;
 
