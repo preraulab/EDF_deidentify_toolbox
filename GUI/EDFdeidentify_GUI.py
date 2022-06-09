@@ -59,6 +59,9 @@ def edf_file_deidentify():
             root.destroy()
             sys.exit("Closing executable...")
 
+    if copy_file:
+        file_savedir = filedialog.askdirectory()
+
     # Loop through all file names
     for path in root.filenames:
 
@@ -70,7 +73,6 @@ def edf_file_deidentify():
         # Copy file to new name
         if copy_file:
             os.chdir(os.path.split(path)[0])
-            file_savedir = filedialog.askdirectory()
             path_new = file_savedir + '/' + os.path.basename(path)[0:-4] + '_deidentified.edf'
             shutil.copy(path, path_new)
             path = path_new
