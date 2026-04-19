@@ -1,0 +1,73 @@
+/* Prerau Lab branding overlay on top of default Furo.
+   Keeps Furo's default typography; adds a PRERAU LAB eyebrow above the
+   project name and a sleepEEG.org link below (see templates/sidebar/brand.html).
+*/
+
+.prerau-brand-wrapper {
+  padding: 1.2rem 0 0.6rem 0;
+}
+
+/* "PRERAU LAB" eyebrow */
+.prerau-lab-eyebrow {
+  font-weight: 500;
+  font-size: 1.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+  color: var(--color-foreground-primary);
+  line-height: 1.25;
+  margin-bottom: 0.3rem;
+}
+
+/* Project name (Furo's default, but tightened under the eyebrow) */
+.sidebar-brand {
+  text-decoration: none;
+  padding: 0;
+}
+
+.sidebar-brand-text {
+  color: var(--color-foreground-secondary);
+  font-weight: 400;
+  font-size: 1.0rem;
+  letter-spacing: 0;
+}
+
+/* sleepEEG.org link — between the eyebrow and the project name */
+.prerau-lab-site-link {
+  display: block;
+  margin-bottom: 0.55rem;
+  font-size: 0.82rem;
+  color: var(--color-foreground-muted);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.prerau-lab-site-link:hover {
+  color: var(--color-brand-primary);
+}
+
+/* Dark-mode tweaks */
+body[data-theme="dark"] .prerau-lab-eyebrow {
+  color: var(--color-foreground-primary);
+}
+
+/* Always-expanded sidebar toctree groups ------------------------------- */
+/* Furo collapses `.toctree-l*.has-children` children via a hidden
+   checkbox + label. Override to show every child list by default and
+   hide the disclosure toggle. */
+
+.sidebar-tree input.toctree-checkbox ~ ul {
+  display: revert !important;
+}
+
+.sidebar-tree input.toctree-checkbox,
+.sidebar-tree .toctree-l1.has-children > label,
+.sidebar-tree .toctree-l2.has-children > label,
+.sidebar-tree .toctree-l3.has-children > label {
+  display: none !important;
+}
+
+/* Tighten spacing for the now-always-visible deep children */
+.sidebar-tree li.toctree-l2 {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+}
