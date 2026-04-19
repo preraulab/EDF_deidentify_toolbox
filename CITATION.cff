@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EDF_deidentify_toolbox"
+abstract: "Standalone GUI programs and MATLAB/Python source code for de-identification of European Data Format (EDF/EDF+) polysomnography and EEG files."
+authors:
+  - family-names: Prerau
+    given-names: Michael J.
+    name-suffix: Ph.D.
+    affiliation: "Prerau Laboratory, Brigham and Women's Hospital, Harvard Medical School"
+    orcid: "https://orcid.org/0000-0002-9010-5273"
+  - family-names: Possidente
+    given-names: Thomas
+    orcid: "https://orcid.org/0000-0002-6857-6247"
+type: software
+license: BSD-3-Clause
+url: "https://github.com/preraulab/EDF_deidentify_toolbox"
+repository-code: "https://github.com/preraulab/EDF_deidentify_toolbox"
